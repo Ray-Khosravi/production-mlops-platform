@@ -256,7 +256,7 @@ The medical image classification workflow presented here is not intended for cli
 
 # Author
 
-Raouf Khosravi
+Ray Khosravi
 
 AI / ML Engineer
 MLOps • Kubernetes • AWS • GitOps
