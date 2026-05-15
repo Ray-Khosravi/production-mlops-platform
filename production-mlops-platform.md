@@ -1,4 +1,4 @@
-# Cancer Detection MLOps Project — Step-by-Step Roadmap
+# MLOps Project — Step-by-Step Roadmap
 
 End-to-end guide: raw data on S3 → cleaning on EC2 → training with MLflow → FastAPI + HTML/CSS app → Docker → EKS via Terraform → Ingress with ALB → Route 53 custom domain → CI/CD with GitHub Actions + Argo CD.
 
