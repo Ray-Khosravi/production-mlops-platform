@@ -1,5 +1,4 @@
 # production-mlops-platform
-# production-mlops-platform
 
 The complete production-style workflow and end-to-end architecture are documented inside:
 
